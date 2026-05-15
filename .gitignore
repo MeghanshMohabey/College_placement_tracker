@@ -1,0 +1,10 @@
+
+node_modules
+.next
+.env
+npm-debug.log*
+dist
+build
+.vscode
+.DS_Store
+Thumbs.db
